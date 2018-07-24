@@ -7,11 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+An app for people buying things second hand, that allows them to see if they're getting a good deal. 
+Allows users to search products and see what the product costs new, as well as the average price that the product is selling for used.
+Will utilize API to pull in current price data (via amazon, ebay, etc).
 ### Features
-Include Features here
+Barcode scanner
+Search
+checkout
 ### Technologies
-Include Technologies here
+    Python
+    Flask
+    MySQL
+    SQLAlchemy
+    Jinja2 templates
+    C#
+    Javascript
+    Ajax
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn Javascript and Ajax, as well as how to use data from APIs.
+
+### Project Tracker
+https://www.pivotaltracker.com/n/projects/2186601
